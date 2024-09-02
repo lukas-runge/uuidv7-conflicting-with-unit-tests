@@ -1,0 +1,20 @@
+{
+  "name": "uuidv7-conflicting-with-fake-timers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run"
+  },
+  "dependencies": {
+    "@vitest/ui": "^0.34.6",
+    "i": "^0.3.7",
+    "npm": "^10.8.3",
+    "typeid-js": "^1.0.0",
+    "uuid": "^10.0.0",
+    "uuidv7-js": "^1.1.4",
+    "vite": "^4.4.11",
+    "vitest": "^0.34.6"
+  }
+}
